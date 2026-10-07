@@ -1,7 +1,7 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint2;
 namespace Tyuiu.KorovinIK.Sprint2.Task1.V1.Lib
 {
-    public class DataService : ISprint2Task1V6
+    public class DataService : ISprint2Task1V1
     {
         public bool[] GetLogicOperations(int a, int b, int c, int d)
         {
